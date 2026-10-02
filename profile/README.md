@@ -1,5 +1,5 @@
 <a href="https://beaesthetics.co">
-  <img src="assets/banner.png" alt="BE AESTHETICS. Boutique creative agency specialising in brand & digital for premium and luxury brands." width="100%" />
+  <img src="assets/hero.png" alt="BE AESTHETICS. Boutique creative agency for premium and luxury brands, New York to Tel Aviv." width="100%" />
 </a>
 
 <br />
